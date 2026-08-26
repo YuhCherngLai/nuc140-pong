@@ -5,8 +5,10 @@ NUC140 on-chip peripherals: a potentiometer moves the paddle, an I2C EEPROM keep
 between power cycles, a PWM buzzer plays per-event tones, and score/time are shown on both a
 multiplexed 7-segment display and a 128x64 SPI LCD.
 
-> Course project, 2024–2025. Written for the Microprocessors course, Department of Computer Science
-> and Information Engineering, Feng Chia University.
+> Course project, 2024–2025. Course grade: A+
+
+Written for the Microprocessors course, Department of Computer Science and Information
+Engineering, Feng Chia University.
 
 Demo video: https://youtu.be/TjInDzXRgKc
 
