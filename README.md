@@ -10,7 +10,7 @@ multiplexed 7-segment display and a 128x64 SPI LCD.
 Written for the Microprocessors course, Department of Computer Science and Information
 Engineering, Feng Chia University.
 
-Demo video: https://youtu.be/TjInDzXRgKc
+Demo video (English subtitles): https://youtu.be/Z9HS7O-trPg
 
 Hardware: NUC140VE3CN (LQFP100) on Nu-LB-NUC140, plus a 24LC64 EEPROM on I2C1.
 
